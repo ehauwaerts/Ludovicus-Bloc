@@ -31,11 +31,11 @@ search:
   index:
     metadata:
       enabled: true
-      all: false
+      all: true
     summary:
       enabled: true
     annotations:
-      enabled: false
+      enabled: true
       motivation:
         - commenting
         - tagging
