@@ -42,3 +42,12 @@ theme:
   appearance: light
   accentColor: indigo
   grayColor: slate
+nav:
+  - label: Home
+    path: /
+
+  - label: Browse
+    path: /browse
+
+  - label: Search
+    path: /search
