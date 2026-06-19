@@ -7,7 +7,6 @@ manifest:
   - https://sharedcanvas.be/IIIF/manifests/B_GS_MS073-032
   - https://sharedcanvas.be/IIIF/manifests/B_GS_MS078-182
 metadata:
-  - Title
   - Physical location
   - Associated names
   - Date of creation
@@ -31,7 +30,7 @@ search:
   index:
     metadata:
       enabled: true
-      all: true
+      all: false
     summary:
       enabled: true
     annotations:
