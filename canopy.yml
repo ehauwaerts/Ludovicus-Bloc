@@ -45,9 +45,7 @@ theme:
 nav:
   - label: Home
     path: /
-
   - label: Browse
     path: /browse
-
   - label: Search
     path: /search
